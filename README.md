@@ -21,3 +21,7 @@
   <code><img width="5%" title="Jenkins" src="./images/icons/jenkins-logo.svg"></code>
   <code><img width="5%" title="Jira" src="./images/icons/jira-logo.svg"></code>
 </p>
+
+## My projects:
+### :heavy_check_mark: UI Autotests for IBS website
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=onemanpara&repo=ibs_ui_tests)](https://github.com/onemanpara/ibs_ui_tests)
