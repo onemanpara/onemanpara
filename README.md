@@ -23,5 +23,10 @@
 </p>
 
 ## My projects:
-### :heavy_check_mark: UI Autotests for IBS website
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=onemanpara&repo=ibs_ui_tests)](https://github.com/onemanpara/ibs_ui_tests)
+### :heavy_check_mark: UI Autotests for Runc website
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=onemanpara&repo=runc_demo)](https://github.com/onemanpara/runc_demo)
+
+### :heavy_check_mark: API Autotests for reqres website
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=onemanpara&repo=apiPartOfDiplom)](https://github.com/onemanpara/apiPartOfDiplom)
+
+<a href="https://github.com/onemanpara/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=onemanpara&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"/></a>
