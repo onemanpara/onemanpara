@@ -1,0 +1,36 @@
+<svg width="103" height="103" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient y2="0.062548" y1="0.864418" x2="0.688456" x1="-0.113334" id="d">
+   <stop offset="0.10753" stop-color="#C757BC"/>
+   <stop offset="0.21383" stop-color="#D0609A"/>
+   <stop offset="0.42537" stop-color="#E1725C"/>
+   <stop offset="0.60485" stop-color="#EE7E2F"/>
+   <stop offset="0.74303" stop-color="#F58613"/>
+   <stop offset="0.82323" stop-color="#F88909"/>
+  </linearGradient>
+  <linearGradient y2="0.451414" y1="1.292629" x2="0.775074" x1="0.352686" id="f">
+   <stop offset="0.09677" stop-color="#0095D5"/>
+   <stop offset="0.30073" stop-color="#238AD9"/>
+   <stop offset="0.62106" stop-color="#557BDE"/>
+   <stop offset="0.86432" stop-color="#7472E2"/>
+   <stop offset="1" stop-color="#806EE3"/>
+  </linearGradient>
+  <linearGradient y2="-0.112395" y1="0.586865" x2="0.644002" x1="-0.091352" id="e">
+   <stop offset="0.09677" stop-color="#0095D5"/>
+   <stop offset="0.30073" stop-color="#238AD9"/>
+   <stop offset="0.62106" stop-color="#557BDE"/>
+   <stop offset="0.86432" stop-color="#7472E2"/>
+   <stop offset="1" stop-color="#806EE3"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="105" width="105" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <polygon id="svg_8" fill="url(#d)" points="51.471664130687714,0.441650390625 0.32633382081985474,54.22805166244507 0.32633382081985474,102.3060507774353 51.39866226911545,51.149049282073975 102.19966477155685,0.441650390625 "/>
+  <polygon id="svg_9" fill="url(#f)" points="0.32636386156082153,102.3060507774353 51.39866226911545,51.149049282073975 102.19966477155685,102.3060507774353 "/>
+  <polygon id="svg_10" fill="url(#e)" points="0.3263837695121765,0.44175052642822266 51.47266358137131,0.44175052642822266 0.3263837695121765,54.22805166244507 "/>
+ </g>
+</svg>
