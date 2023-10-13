@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+  <img width="5%" src="./images/icons/pacific.png" align="right">
 ### About me
 
 - 💼 I'm QA Engineer
