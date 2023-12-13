@@ -1,5 +1,3 @@
-  <img width="5%" src="./images/icons/pacific.png" align="right">
-
 ### Hi there 👋
 
 ### About me
