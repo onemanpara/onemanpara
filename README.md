@@ -1,10 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-### About me
-
-- 💼 I'm QA Engineer
-- 🌱 I’m currently learning at QA.GURU
-- 📫 How to reach me: Telegram @onemanpara
+### I'm QA Engineer
 
 ### Tools and technologies:
 <p  align="center">
@@ -24,11 +20,21 @@
   <code><img width="5%" title="IntelliJ IDEA" src="./images/icons/IDEA-logo.svg"></code>
 </p>
 
-## My projects:
-### :heavy_check_mark: UI Autotests for Runc website
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=onemanpara&repo=runc_demo)](https://github.com/onemanpara/runc_demo)
+### 📱 How to contact me:
+<a href="https://t.me/onemanpara">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
 
-### :heavy_check_mark: API Autotests for reqres website
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=onemanpara&repo=apiPartOfDiplom)](https://github.com/onemanpara/apiPartOfDiplom)
+## :books: My education of QA automation:
+<details>
+		<summary><i> OA Automation Engineer (Basic Java level)</i></summary>
+		<img src="images/certificates/based.png">
+</details>
+<details>
+		<summary><i> OA Automation Engineer (Advanced Java level)</i></summary>
+		<img src="images/certificates/advanced.png">
+</details>
 
-<a href="https://github.com/onemanpara/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=onemanpara&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"/></a>
+## My business card:
+### :heavy_check_mark: UI + GRPC autotests for a self-written microservice application
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=onemanpara&repo=rococo)](https://github.com/onemanpara/rococo)
