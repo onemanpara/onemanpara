@@ -27,11 +27,11 @@
 
 ## :books: My education of QA automation:
 <details>
-		<summary><i> OA Automation Engineer (Basic Java level)</i></summary>
+		<summary><i>QA Automation Engineer (Basic Java level)</i></summary>
 		<img src="images/certificates/based.png">
 </details>
 <details>
-		<summary><i> OA Automation Engineer (Advanced Java level)</i></summary>
+		<summary><i>QA Automation Engineer (Advanced Java level)</i></summary>
 		<img src="images/certificates/advanced.png">
 </details>
 
